@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402c47c4-450d-4f91-b908-67fcdde0fbf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/GitDemo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/TestGit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/GitDemo2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/GitDemo2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/GitDemo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/GitDemo2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +54,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="SvnConfiguration">
@@ -63,18 +70,52 @@
       <option name="presentableId" value="Default" />
       <updated>1588475509527</updated>
       <workItem from="1588475519392" duration="23000" />
-      <workItem from="1588475546914" duration="3153000" />
+      <workItem from="1588475546914" duration="4250000" />
     </task>
+    <task id="LOCAL-00001" summary="git">
+      <created>1588483370485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588483370485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git">
+      <created>1588483504733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588483504733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="0" width="741" height="680" key="CommitChangelistDialog2" timestamp="1588483367798">
+    <state x="369" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588491982580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" width="741" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588483367798" />
+    <state x="369" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1588491982580" />
+    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2" timestamp="1588483503408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588483503408" />
     <state x="122" y="50" key="DiffContextDialog" timestamp="1588482375220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -99,10 +140,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588475543075" />
-    <state x="135" y="0" key="SettingsEditor" timestamp="1588482737594">
+    <state x="135" y="0" key="SettingsEditor" timestamp="1588491921513">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="135" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588482737594" />
+    <state x="135" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588491921513" />
+    <state x="423" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588483525723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="423" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1588483525723" />
+    <state x="333" y="131" key="git4idea.merge.GitPullDialog" timestamp="1588483553307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="131" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1588483553307" />
     <state x="28" y="35" key="new project wizard" timestamp="1588482666975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
