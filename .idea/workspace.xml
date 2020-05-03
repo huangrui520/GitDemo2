@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402c47c4-450d-4f91-b908-67fcdde0fbf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/TestGit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="402c47c4-450d-4f91-b908-67fcdde0fbf8" name="Default Changelist" comment="git">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/TestGit2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaLearn\IJ\JavaEE\GitDemo2\src\main\java\com.test" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588475509527</updated>
       <workItem from="1588475519392" duration="23000" />
-      <workItem from="1588475546914" duration="4250000" />
+      <workItem from="1588475546914" duration="4501000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1588483370485</created>
@@ -112,10 +116,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="369" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1588491982580" />
-    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2" timestamp="1588483503408">
+    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2" timestamp="1588492110747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588483503408" />
+    <state x="134" y="1" width="983" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588492110747" />
     <state x="122" y="50" key="DiffContextDialog" timestamp="1588482375220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
